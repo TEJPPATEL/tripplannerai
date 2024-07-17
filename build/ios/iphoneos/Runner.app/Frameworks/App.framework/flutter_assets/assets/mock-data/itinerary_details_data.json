@@ -1,0 +1,76 @@
+{
+    "res": {
+        "title": "Title of Jounery",
+        "image": "famous image of city if available then size 200 * 200",
+        "plans": [
+            {
+                "day": 1,
+                "description": "day 1 description",
+                "activities": [
+                    {
+                        "slot": "morning",
+                        "slotDescription": [
+                            "activity 1 which we can do in morning or place that we can visit in morning for day 1",
+                            "activity 2 which we can do in morning or place that we can visit in morning for day 1"
+                        ]
+                    },
+                    {
+                        "slot": "afternoon",
+                        "slotDescription": [
+                            "activity 1 which we can do in afternoon or place that we can visit in afternoon for day 1",
+                            "activity 2 which we can do in afternoon or place that we can visit in afternoon for day 1"
+                        ]
+                    },
+                    {
+                        "slot": "evening",
+                        "slotDescription": [
+                            "activity 1 which we can do in evening or place that we can visit in evening for day 1",
+                            "activity 2 which we can do in evening or place that we can visit in evening for day 1"
+                        ]
+                    },
+                    {
+                        "slot": "night",
+                        "slotDescription": [
+                            "activity 1 which we can do in night or place that we can visit in night in day 1",
+                            "activity 2 which we can do in night or place that we can visit in night in day 1"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "description": "day 2 description",
+                "activities": [
+                    {
+                        "slot": "morning",
+                        "slotDescription": [
+                            "activity 1 which we can do in morning or place that we can visit in morning for day 2",
+                            "activity 2 which we can do in morning or place that we can visit in morning for day 2"
+                        ]
+                    },
+                    {
+                        "slot": "afternoon",
+                        "slotDescription": [
+                            "activity 1 which we can do in afternoon or place that we can visit in afternoon for day 2",
+                            "activity 2 which we can do in afternoon or place that we can visit in afternoon for day 2"
+                        ]
+                    },
+                    {
+                        "slot": "evening",
+                        "slotDescription": [
+                            "activity 1 which we can do in evening or place that we can visit in evening for day 2",
+                            "activity 2 which we can do in evening or place that we can visit in evening for day 2"
+                        ]
+                    },
+                    {
+                        "slot": "night",
+                        "slotDescription": [
+                            "activity 1 which we can do in night or place that we can visit in night in day 2",
+                            "activity 2 which we can do in night or place that we can visit in night in day 2"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
